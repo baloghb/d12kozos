@@ -9,7 +9,7 @@ package javaapplication3;
  *
  * @author github
  */
-public class JavaApplication3 {
+public class KozmaViktortalalmanya {
 
     /**
      * @param args the command line arguments
